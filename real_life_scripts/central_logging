@@ -32,7 +32,7 @@ vi
 
 #!/bin/bash
 
-systems="roman_wa@email.com,charles.gorden@email.com"
+systems="roman_wa@gmail.com,rkolivashko@gmail.com"
 
 if [ -s /tmp/filtered-messages ]
 
