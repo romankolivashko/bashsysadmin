@@ -1,0 +1,1 @@
+for pid in $(pidof ffmpeg); do renice 19 $pid; done
